@@ -1,0 +1,13 @@
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Abstract Factory\bin\Debug\netcoreapp3.1\Abstract Factory.exe
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Abstract Factory\bin\Debug\netcoreapp3.1\Abstract Factory.deps.json
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Abstract Factory\bin\Debug\netcoreapp3.1\Abstract Factory.runtimeconfig.json
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Abstract Factory\bin\Debug\netcoreapp3.1\Abstract Factory.runtimeconfig.dev.json
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Abstract Factory\bin\Debug\netcoreapp3.1\Abstract Factory.dll
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Abstract Factory\bin\Debug\netcoreapp3.1\Abstract Factory.pdb
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Abstract Factory\obj\Debug\netcoreapp3.1\Abstract Factory.csprojAssemblyReference.cache
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Abstract Factory\obj\Debug\netcoreapp3.1\Abstract Factory.AssemblyInfoInputs.cache
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Abstract Factory\obj\Debug\netcoreapp3.1\Abstract Factory.AssemblyInfo.cs
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Abstract Factory\obj\Debug\netcoreapp3.1\Abstract Factory.csproj.CoreCompileInputs.cache
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Abstract Factory\obj\Debug\netcoreapp3.1\Abstract Factory.dll
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Abstract Factory\obj\Debug\netcoreapp3.1\Abstract Factory.pdb
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Abstract Factory\obj\Debug\netcoreapp3.1\Abstract Factory.genruntimeconfig.cache

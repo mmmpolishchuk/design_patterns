@@ -1,0 +1,13 @@
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Factory method\bin\Debug\netcoreapp3.1\Factory method.exe
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Factory method\bin\Debug\netcoreapp3.1\Factory method.deps.json
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Factory method\bin\Debug\netcoreapp3.1\Factory method.runtimeconfig.json
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Factory method\bin\Debug\netcoreapp3.1\Factory method.runtimeconfig.dev.json
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Factory method\bin\Debug\netcoreapp3.1\Factory method.dll
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Factory method\bin\Debug\netcoreapp3.1\Factory method.pdb
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Factory method\obj\Debug\netcoreapp3.1\Factory method.csprojAssemblyReference.cache
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Factory method\obj\Debug\netcoreapp3.1\Factory method.AssemblyInfoInputs.cache
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Factory method\obj\Debug\netcoreapp3.1\Factory method.AssemblyInfo.cs
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Factory method\obj\Debug\netcoreapp3.1\Factory method.csproj.CoreCompileInputs.cache
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Factory method\obj\Debug\netcoreapp3.1\Factory method.dll
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Factory method\obj\Debug\netcoreapp3.1\Factory method.pdb
+M:\Styding\Programming\Training\Design Patterns\Design Patterns\Factory method\obj\Debug\netcoreapp3.1\Factory method.genruntimeconfig.cache
